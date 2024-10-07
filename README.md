@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/muttashimm" target="blank"><img src="https://img.shields.io/twitter/follow/muttashimm?logo=twitter&style=for-the-badge" alt="muttashimm" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [mawn.me](mawn.me)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-brown-iota.vercel.app/](mawn.me)
 
 - 📫 How to reach me **mishelmawn.job@gmail.com**
 
